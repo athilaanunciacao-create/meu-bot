@@ -1,0 +1,13 @@
+{
+    "token": "SEU_TOKEN_AQUI",
+    "prefix": "!",
+    "owner_id": "",
+    "server_id": "1560322469133295716",
+    "bot_id": "1563009651283468328",
+    "pix": {
+        "enabled": true,
+        "chave": "0bdafc54-f8bd-4f0e-affa-980a57713a3e",
+        "tipo": "chave_aleatoria",
+        "nome_recebedor": "Minha Loja"
+    }
+}
